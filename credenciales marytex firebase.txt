@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAiLBF4kYu30S3DJZClvwVXMkmm9QqCBms",
+  authDomain: "marytex-11a64.firebaseapp.com",
+  projectId: "marytex-11a64",
+  storageBucket: "marytex-11a64.firebasestorage.app",
+  messagingSenderId: "761952932612",
+  appId: "1:761952932612:web:54b68da6e34a230c31f651",
+  measurementId: "G-GYQ85T8C6W"
+};

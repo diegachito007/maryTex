@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno (¡IMPORTANTE! Aquí están tus claves de Firebase)
+.env
+.env.local
+.env.production
+
+# Archivos de compilación
+dist/
+build/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+!.vscode/settings.json
